@@ -1,25 +1,27 @@
-# article-smasher
+# Article Smasher
 
-An AI-powered utility designed for content generation, repurposing, or marketing strategy implementation.
+> **Opace open-source portfolio:** [Browse Opace AI tools, WordPress plugins, Agent Skills and web platforms](https://github.com/OpaceDigitalAgency/OpaceDigitalAgency)
 
+Article Smasher is an early project concept for AI-assisted content generation, repurposing and marketing workflows.
 
----
+## Intended use cases
+
+- Turn a source idea into a structured article brief
+- Repurpose long-form material into alternative formats
+- Support content-marketing planning and ideation
+- Explore reusable prompt-led editorial workflows
+
+## Repository status
+
+This repository currently documents the project concept; it does not yet contain a runnable application. For implemented Opace content-generation work, see:
+
+- [AI Scribe](https://github.com/OpaceDigitalAgency/ai-scribe-chat-gpt-content-creator) — WordPress AI writing and SEO-content plugin
+- [SmashingApps.ai Unified](https://github.com/OpaceDigitalAgency/smashingapps-unified) — consolidated AI productivity-tool application
+- [Task Smasher](https://github.com/OpaceDigitalAgency/task-smasher) — React and Netlify Functions example
 
 ## About Opace Digital Agency
 
-This project is developed and maintained by **Opace Digital Agency**, a Birmingham-based web design and development agency specializing in modern web solutions.
+Maintained by [Opace Digital Agency](https://opace.agency), a Birmingham digital agency working across AI integration, WordPress, web development and content technology.
 
-### Our Services
-
-- **Web Design & Development** - Professional, responsive websites
-- **Next.js & React Development** - Modern web applications
-- **Frontend Development** - Cutting-edge user interfaces
-- **WordPress Development** - Custom themes and plugins
-- **E-commerce Solutions** - Scalable online stores
-
-### Get in Touch
-
-- 🌐 Website: [opace.agency](https://opace.agency)
-- 📧 Services: [Web Design & Development](https://opace.agency/services/web-design)
-- 💼 GitHub: [@OpaceDigitalAgency](https://github.com/OpaceDigitalAgency)
-- 📍 Location: Birmingham, UK
+- [Web design and development](https://opace.agency/services/web-design)
+- [Opace on GitHub](https://github.com/OpaceDigitalAgency)
